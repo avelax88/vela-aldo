@@ -5,7 +5,7 @@
 Feel free to reach out :)
 <br>
 💻Coding Activity
-https://github-readme-stats.vercel.app/api?username=vela-aldo&count_private=true&show_icons=true&theme=dracula
+<img src=https://github-readme-stats.vercel.app/api?username=vela-aldo&count_private=true&show_icons=true&theme=dracula"width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=vela-aldo&count_private=true&show_icons=true&theme=dracula" width="62%" />
 <!--
 **vela-aldo/vela-aldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
